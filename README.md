@@ -33,7 +33,7 @@ The Expense Manager App is a powerful tool designed to help users track their ex
 - **Version Control**: Git
 
 
-![App SS](https://example.com/barber_shop_app_screenshot.png)
+![App SS](https://github.com/mehroshkw/expensemanager/blob/master/em_ss.png)
 
 ## License
 
